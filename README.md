@@ -12,7 +12,7 @@ This repo contains the full kicad schematic and PCB files.
 - **Passives**: Standard 0805 imperial (2012 metric) SMD resistors and capacitors
 - **Switches**: 6mm tactile push buttons
 ## Manufacturing the PCB
-Download the gurber file and use your preferred manufacturer. 
+Download the gerber file and use your preferred manufacturer. 
 ## Firmware (Coming Soon)
 I didn't make it yet.
 ## License  
